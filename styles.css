@@ -1,0 +1,63 @@
+<style>
+		body {
+			
+	}
+		/*regular text stylings*/
+		p {
+            	font-family: "Microsoft PhagsPa", serif;
+		font-size: 20px;
+		padding-left: 8%;
+		padding-right: 8%;	
+        }
+		ul {
+            	font-family: "Microsoft PhagsPa", serif;
+		font-size: 20px;
+		padding-left: 20%;
+		padding-right: 18%;	
+        }
+		h1 {
+            	font-family: "Courier", sans-serif;
+		font-size: 60px;
+        }
+		h2 {
+            	font-family: "Montserrat", sans-serif;
+		font-size: 50px;
+        }
+		h3 {
+            	font-family: "Microsoft PhagsPa", sans-serif;
+		font-size: 40px;
+        }
+		h4 {
+            	font-family: "Courier", sans-serif;
+		font-size: 30px;
+        }
+		.fancy-words{
+		font-weight: 700;
+		font-family: "Lucida Sans Unicode", sans-serif;
+		font-size: 20px;
+	}
+		/*Table Styling*/
+		tr:nth-child(even){
+		background-color: #d4d7ff;
+	}
+		table {
+		padding-left: 13%;
+		padding-right: 13%;
+		padding-bottom: 50px;
+  		width: 100%;
+	}
+
+		th {
+  		height: 40px;
+		font-weight: 700;
+		font-family: "Lucida Sans Unicode", sans-serif;
+		font-size: 20px;
+		background-color: #859bff;
+	}
+		td {
+  		padding-left: 1em;
+		padding-right: 1em;
+		font-family: "Microsoft PhagsPa", serif;
+		font-size: 20px;
+	}
+		</style>
