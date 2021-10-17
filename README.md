@@ -131,8 +131,6 @@ at least three hours typing each day, which adds up to over 1,000 hours typing a
 		<br>-->
 		
 </p>
-		
-	
 
 		<p>
 		We buy the materials:</p>
@@ -155,8 +153,6 @@ at least three hours typing each day, which adds up to over 1,000 hours typing a
 
  	
 		<p>
-		After the materials are gathered, the keyboard is assembled. This may take anywhere between four and fifteen hours, depending on the size and layout of the board. 
-		
+		After the materials are gathered, the keyboard is assembled. This may take anywhere between four and fifteen hours, depending on the size and layout of the board. 	
 	</body>	
-
 </html> 
